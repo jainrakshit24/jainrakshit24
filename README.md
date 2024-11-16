@@ -48,4 +48,4 @@
 
 ### 👥 Visitors:
 
-![Visitor Count](https://profile-counter.glitch.me/jainrakshit24/count.svg)
+![Visitor's Count](https://profile-counter.glitch.me/jainrakshit24/count.svg)
