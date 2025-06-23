@@ -45,6 +45,11 @@
 </div>
 
 ---
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/jainrakshit24/jainrakshit24/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### 👥 Visitors:
 
