@@ -44,11 +44,6 @@
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainrakshit24&theme=github_dark&hide_border=true&layout=compact" />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jainrakshit24/jainrakshit24/output/snake.svg" alt="Snake animation" />
-
-###
 
 ### 👥 Visitors:
 
